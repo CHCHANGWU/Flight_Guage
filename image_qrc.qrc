@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/ce.png</file>
+        <file>image/fu.png</file>
+        <file>image/fu2.png</file>
+        <file>image/attitude.svg</file>
+        <file>image/compass.svg</file>
+    </qresource>
+</RCC>
