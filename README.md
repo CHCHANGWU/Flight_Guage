@@ -11,10 +11,6 @@ Flight_Guage/
 ├── forms/ # UI 设计文件目录，通常为 .ui 文件
 ├── image/ # 图像资源目录，存放仪表盘等图像素材
 
-markdown
-复制
-编辑
-
 ## 开发环境
 
 - 开发工具：Qt Creator
