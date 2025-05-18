@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="282.222mm" height="1270mm"
+ viewBox="0 0 800 3600"
+ xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"  version="1.2" baseProfile="tiny">
+<title>SVG 示例</title>
+<desc>这是用 Qt 生成的 SVG 图片</desc>
+<defs>
+</defs>
+<g fill="none" stroke="black" stroke-width="1" fill-rule="evenodd" stroke-linecap="square" stroke-linejoin="bevel" >
+
+<g fill="#29dfe2" fill-opacity="1" stroke="#29dfe2" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="0" width="800" height="1800"/>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#e2dc50" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<rect x="0" y="1800" width="800" height="1800"/>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="SimSun" font-size="9" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1080 390,1080 " />
+<polyline fill="none" vector-effect="none" points="410,1080 550,1080 " />
+<polyline fill="none" vector-effect="none" points="250,1080 250,1092 " />
+<polyline fill="none" vector-effect="none" points="550,1080 550,1092 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1105" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >90</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1105" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >90</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1120 390,1120 " />
+<polyline fill="none" vector-effect="none" points="410,1120 550,1120 " />
+<polyline fill="none" vector-effect="none" points="250,1120 250,1132 " />
+<polyline fill="none" vector-effect="none" points="550,1120 550,1132 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >85</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1145" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >85</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1160 390,1160 " />
+<polyline fill="none" vector-effect="none" points="410,1160 550,1160 " />
+<polyline fill="none" vector-effect="none" points="250,1160 250,1172 " />
+<polyline fill="none" vector-effect="none" points="550,1160 550,1172 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1185" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >80</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1185" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >80</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1200 390,1200 " />
+<polyline fill="none" vector-effect="none" points="410,1200 550,1200 " />
+<polyline fill="none" vector-effect="none" points="250,1200 250,1212 " />
+<polyline fill="none" vector-effect="none" points="550,1200 550,1212 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1225" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >75</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1225" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >75</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1240 390,1240 " />
+<polyline fill="none" vector-effect="none" points="410,1240 550,1240 " />
+<polyline fill="none" vector-effect="none" points="250,1240 250,1252 " />
+<polyline fill="none" vector-effect="none" points="550,1240 550,1252 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1265" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >70</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1265" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >70</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1280 390,1280 " />
+<polyline fill="none" vector-effect="none" points="410,1280 550,1280 " />
+<polyline fill="none" vector-effect="none" points="250,1280 250,1292 " />
+<polyline fill="none" vector-effect="none" points="550,1280 550,1292 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1305" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >65</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1305" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >65</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1320 390,1320 " />
+<polyline fill="none" vector-effect="none" points="410,1320 550,1320 " />
+<polyline fill="none" vector-effect="none" points="250,1320 250,1332 " />
+<polyline fill="none" vector-effect="none" points="550,1320 550,1332 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1345" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >60</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1345" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >60</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1360 390,1360 " />
+<polyline fill="none" vector-effect="none" points="410,1360 550,1360 " />
+<polyline fill="none" vector-effect="none" points="250,1360 250,1372 " />
+<polyline fill="none" vector-effect="none" points="550,1360 550,1372 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1385" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >55</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1385" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >55</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1400 390,1400 " />
+<polyline fill="none" vector-effect="none" points="410,1400 550,1400 " />
+<polyline fill="none" vector-effect="none" points="250,1400 250,1412 " />
+<polyline fill="none" vector-effect="none" points="550,1400 550,1412 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1425" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >50</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1425" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >50</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1440 390,1440 " />
+<polyline fill="none" vector-effect="none" points="410,1440 550,1440 " />
+<polyline fill="none" vector-effect="none" points="250,1440 250,1452 " />
+<polyline fill="none" vector-effect="none" points="550,1440 550,1452 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1465" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >45</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1465" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >45</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1480 390,1480 " />
+<polyline fill="none" vector-effect="none" points="410,1480 550,1480 " />
+<polyline fill="none" vector-effect="none" points="250,1480 250,1492 " />
+<polyline fill="none" vector-effect="none" points="550,1480 550,1492 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1505" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >40</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1505" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >40</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1520 390,1520 " />
+<polyline fill="none" vector-effect="none" points="410,1520 550,1520 " />
+<polyline fill="none" vector-effect="none" points="250,1520 250,1532 " />
+<polyline fill="none" vector-effect="none" points="550,1520 550,1532 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1545" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >35</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1545" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >35</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1560 390,1560 " />
+<polyline fill="none" vector-effect="none" points="410,1560 550,1560 " />
+<polyline fill="none" vector-effect="none" points="250,1560 250,1572 " />
+<polyline fill="none" vector-effect="none" points="550,1560 550,1572 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1585" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >30</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1585" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >30</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1600 390,1600 " />
+<polyline fill="none" vector-effect="none" points="410,1600 550,1600 " />
+<polyline fill="none" vector-effect="none" points="250,1600 250,1612 " />
+<polyline fill="none" vector-effect="none" points="550,1600 550,1612 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1625" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >25</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1625" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >25</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1640 390,1640 " />
+<polyline fill="none" vector-effect="none" points="410,1640 550,1640 " />
+<polyline fill="none" vector-effect="none" points="250,1640 250,1652 " />
+<polyline fill="none" vector-effect="none" points="550,1640 550,1652 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1665" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >20</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1665" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >20</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1680 390,1680 " />
+<polyline fill="none" vector-effect="none" points="410,1680 550,1680 " />
+<polyline fill="none" vector-effect="none" points="250,1680 250,1692 " />
+<polyline fill="none" vector-effect="none" points="550,1680 550,1692 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1705" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >15</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1705" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >15</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1720 390,1720 " />
+<polyline fill="none" vector-effect="none" points="410,1720 550,1720 " />
+<polyline fill="none" vector-effect="none" points="250,1720 250,1732 " />
+<polyline fill="none" vector-effect="none" points="550,1720 550,1732 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1745" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >10</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1745" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >10</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1760 390,1760 " />
+<polyline fill="none" vector-effect="none" points="410,1760 550,1760 " />
+<polyline fill="none" vector-effect="none" points="250,1760 250,1772 " />
+<polyline fill="none" vector-effect="none" points="550,1760 550,1772 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1785" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >5</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="540" y="1785" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >5</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1840 390,1840 " />
+<polyline fill="none" vector-effect="none" points="410,1840 550,1840 " />
+<polyline fill="none" vector-effect="none" points="390,1840 390,1828 " />
+<polyline fill="none" vector-effect="none" points="410,1840 410,1828 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1830" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >5</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="540" y="1830" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >5</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1880 390,1880 " />
+<polyline fill="none" vector-effect="none" points="410,1880 550,1880 " />
+<polyline fill="none" vector-effect="none" points="390,1880 390,1868 " />
+<polyline fill="none" vector-effect="none" points="410,1880 410,1868 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1870" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >10</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1870" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >10</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1920 390,1920 " />
+<polyline fill="none" vector-effect="none" points="410,1920 550,1920 " />
+<polyline fill="none" vector-effect="none" points="390,1920 390,1908 " />
+<polyline fill="none" vector-effect="none" points="410,1920 410,1908 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1910" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >15</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1910" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >15</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,1960 390,1960 " />
+<polyline fill="none" vector-effect="none" points="410,1960 550,1960 " />
+<polyline fill="none" vector-effect="none" points="390,1960 390,1948 " />
+<polyline fill="none" vector-effect="none" points="410,1960 410,1948 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1950" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >20</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1950" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >20</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,2000 390,2000 " />
+<polyline fill="none" vector-effect="none" points="410,2000 550,2000 " />
+<polyline fill="none" vector-effect="none" points="390,2000 390,1988 " />
+<polyline fill="none" vector-effect="none" points="410,2000 410,1988 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="1990" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >25</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="1990" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >25</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,2040 390,2040 " />
+<polyline fill="none" vector-effect="none" points="410,2040 550,2040 " />
+<polyline fill="none" vector-effect="none" points="390,2040 390,2028 " />
+<polyline fill="none" vector-effect="none" points="410,2040 410,2028 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="2030" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >30</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="2030" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >30</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,2080 390,2080 " />
+<polyline fill="none" vector-effect="none" points="410,2080 550,2080 " />
+<polyline fill="none" vector-effect="none" points="390,2080 390,2068 " />
+<polyline fill="none" vector-effect="none" points="410,2080 410,2068 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="2070" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >35</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="2070" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >35</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,2120 390,2120 " />
+<polyline fill="none" vector-effect="none" points="410,2120 550,2120 " />
+<polyline fill="none" vector-effect="none" points="390,2120 390,2108 " />
+<polyline fill="none" vector-effect="none" points="410,2120 410,2108 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="2110" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >40</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="2110" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >40</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,2160 390,2160 " />
+<polyline fill="none" vector-effect="none" points="410,2160 550,2160 " />
+<polyline fill="none" vector-effect="none" points="390,2160 390,2148 " />
+<polyline fill="none" vector-effect="none" points="410,2160 410,2148 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="2150" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >45</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="2150" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >45</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,2200 390,2200 " />
+<polyline fill="none" vector-effect="none" points="410,2200 550,2200 " />
+<polyline fill="none" vector-effect="none" points="390,2200 390,2188 " />
+<polyline fill="none" vector-effect="none" points="410,2200 410,2188 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="2190" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >50</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="2190" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >50</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,2240 390,2240 " />
+<polyline fill="none" vector-effect="none" points="410,2240 550,2240 " />
+<polyline fill="none" vector-effect="none" points="390,2240 390,2228 " />
+<polyline fill="none" vector-effect="none" points="410,2240 410,2228 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="2230" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >55</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="2230" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >55</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,2280 390,2280 " />
+<polyline fill="none" vector-effect="none" points="410,2280 550,2280 " />
+<polyline fill="none" vector-effect="none" points="390,2280 390,2268 " />
+<polyline fill="none" vector-effect="none" points="410,2280 410,2268 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="2270" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >60</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="2270" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >60</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,2320 390,2320 " />
+<polyline fill="none" vector-effect="none" points="410,2320 550,2320 " />
+<polyline fill="none" vector-effect="none" points="390,2320 390,2308 " />
+<polyline fill="none" vector-effect="none" points="410,2320 410,2308 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="2310" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >65</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="2310" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >65</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,2360 390,2360 " />
+<polyline fill="none" vector-effect="none" points="410,2360 550,2360 " />
+<polyline fill="none" vector-effect="none" points="390,2360 390,2348 " />
+<polyline fill="none" vector-effect="none" points="410,2360 410,2348 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="2350" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >70</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="2350" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >70</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,2400 390,2400 " />
+<polyline fill="none" vector-effect="none" points="410,2400 550,2400 " />
+<polyline fill="none" vector-effect="none" points="390,2400 390,2388 " />
+<polyline fill="none" vector-effect="none" points="410,2400 410,2388 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="2390" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >75</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="2390" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >75</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,2440 390,2440 " />
+<polyline fill="none" vector-effect="none" points="410,2440 550,2440 " />
+<polyline fill="none" vector-effect="none" points="390,2440 390,2428 " />
+<polyline fill="none" vector-effect="none" points="410,2440 410,2428 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="2430" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >80</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="2430" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >80</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,2480 390,2480 " />
+<polyline fill="none" vector-effect="none" points="410,2480 550,2480 " />
+<polyline fill="none" vector-effect="none" points="390,2480 390,2468 " />
+<polyline fill="none" vector-effect="none" points="410,2480 410,2468 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="2470" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >85</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="2470" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >85</text>
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-dasharray="8,4" stroke-dashoffset="0" stroke-width="2" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<polyline fill="none" vector-effect="none" points="250,2520 390,2520 " />
+<polyline fill="none" vector-effect="none" points="410,2520 550,2520 " />
+<polyline fill="none" vector-effect="none" points="390,2520 390,2508 " />
+<polyline fill="none" vector-effect="none" points="410,2520 410,2508 " />
+</g>
+
+<g fill="#e2dc50" fill-opacity="1" stroke="#ffffff" stroke-opacity="1" stroke-width="1" stroke-linecap="square" stroke-linejoin="bevel" transform="matrix(1,0,0,1,0,0)"
+font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="252" y="2510" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >90</text>
+<text fill="#ffffff" fill-opacity="1" stroke="none" xml:space="preserve" x="530" y="2510" font-family="Arial" font-size="16" font-weight="400" font-style="normal" 
+ >90</text>
+</g>
+</g>
+</svg>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainForm</class>
+ <widget class="QWidget" name="MainForm">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>2560</width>
+    <height>1440</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainForm</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color:rgb(0, 0, 0)</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <layout class="QVBoxLayout" name="verticalLayout" stretch="1,9">
+     <property name="spacing">
+      <number>0</number>
+     </property>
+     <item>
+      <layout class="QHBoxLayout" name="horizontalLayout">
+       <item>
+        <widget class="StatusForm" name="ststusWidget" native="true"/>
+       </item>
+      </layout>
+     </item>
+     <item>
+      <layout class="QGridLayout" name="gridLayout_4" rowstretch="2,1">
+       <item row="0" column="0">
+        <widget class="GyroForm" name="gyroFrom" native="true"/>
+       </item>
+       <item row="0" column="3">
+        <widget class="CloseCombatForm" name="widget" native="true"/>
+       </item>
+       <item row="0" column="2">
+        <widget class="OrientationForm" name="orientation" native="true"/>
+       </item>
+       <item row="0" column="1">
+        <widget class="BodyForm" name="widget_3" native="true"/>
+       </item>
+       <item row="1" column="0">
+        <widget class="QWidget" name="widget_5" native="true"/>
+       </item>
+       <item row="1" column="1">
+        <widget class="QWidget" name="widget_6" native="true"/>
+       </item>
+       <item row="1" column="2">
+        <widget class="QWidget" name="widget_7" native="true"/>
+       </item>
+       <item row="1" column="3">
+        <widget class="QWidget" name="widget_8" native="true"/>
+       </item>
+      </layout>
+     </item>
+    </layout>
+   </item>
+  </layout>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>StatusForm</class>
+   <extends>QWidget</extends>
+   <header location="global">Statusform.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>GyroForm</class>
+   <extends>QWidget</extends>
+   <header>GyroForm.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>BodyForm</class>
+   <extends>QWidget</extends>
+   <header>Bodyform.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>CloseCombatForm</class>
+   <extends>QWidget</extends>
+   <header>Closecombatform.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>OrientationForm</class>
+   <extends>QWidget</extends>
+   <header>Orientationform.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>

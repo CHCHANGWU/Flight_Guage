@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>GyroForm</class>
+ <widget class="QWidget" name="GyroForm">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>630</width>
+    <height>847</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <widget class="AttitudeIndicator" name="AttitudeIndicatorWidget" native="true">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>140</y>
+     <width>350</width>
+     <height>640</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="AzimuthAngleWidget" name="AzimuthAngle" native="true">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>50</y>
+     <width>350</width>
+     <height>80</height>
+    </rect>
+   </property>
+  </widget>
+ </widget>
+ <customwidgets>
+  <customwidget>
+   <class>AttitudeIndicator</class>
+   <extends>QWidget</extends>
+   <header>AttitudeIndicator.h</header>
+   <container>1</container>
+  </customwidget>
+  <customwidget>
+   <class>AzimuthAngleWidget</class>
+   <extends>QWidget</extends>
+   <header>AzimuthAngleWidget.h</header>
+   <container>1</container>
+  </customwidget>
+ </customwidgets>
+ <resources/>
+ <connections/>
+</ui>
