@@ -25,4 +25,5 @@ Makefile
 *.ilk
 *.json
 *.xml
+moc*.h
 
