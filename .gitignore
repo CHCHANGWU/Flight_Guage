@@ -1,0 +1,31 @@
+# 保留 .gitignore 文件本身
+!.gitignore
+
+# 忽略所有文件
+*
+
+# 不忽略 .pro 和 .qrc 文件
+!*.pro
+!*.qrc
+!*.svg
+!*.png
+!*.h
+!*.cpp
+!*.ui
+!*.qss
+!*.json
+!*.md
+!*.xml
+!*.ini
+!*.txt
+
+
+# 不忽略特定目录
+!src/
+!forms/
+!image/
+
+# 确保目录下文件不被忽略
+src/**
+forms/**
+image/**
